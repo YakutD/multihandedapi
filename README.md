@@ -19,5 +19,5 @@ app.use('/graphql', graphqlHTTP({
 app.listen(port);
 ```
 
-Package supports next API:  Weather, Currency, Countries, IP, Music .
+Package supports next API:  *Weather*, *Currency*, *Countries*, *IP*, *Music* .
 You can get more detailed documentation by connecting to the GraphQL server, with the ```multihandedapi``` schema .
