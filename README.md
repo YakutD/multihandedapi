@@ -1,4 +1,4 @@
-# multihandedapi
+# Multihanded API
 
 For install a package use command ```npm i multihandedapi```
 
@@ -19,5 +19,5 @@ app.use('/graphql', graphqlHTTP({
 app.listen(port);
 ```
 
-Package supports next API:  openweathermap.org, min-api.cryptocompare.com, restcountries.eu, ip-api.com, last.fm .
+Package supports next API:  Weather, Currency, Countries, IP, Music .
 You can get more detailed documentation by connecting to the GraphQL server, with the ```multihandedapi``` schema .
